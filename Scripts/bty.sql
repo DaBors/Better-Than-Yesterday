@@ -1,0 +1,3 @@
+-- CREATE TABLE profiles (email VARCHAR(255), firstName VARCHAR(50), familyName VARCHAR(50), passwordHash VARCHAR(255), id VARCHAR(255));
+-- create user 'btyuser'@'%' identified by '6u4H`Bby=QB%4`YW';
+-- grant all on betterthanyesterday.* to 'btyuser'@'%';
